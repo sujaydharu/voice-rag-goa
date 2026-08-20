@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+datasets
+numpy
+pandas
+sentence-transformers
+faiss-cpu
+scikit-learn
+requests
+httpx
+pytest

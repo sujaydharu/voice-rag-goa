@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Dataset
+data/raw/*
+data/processed/*
+data/vector_db/*
+
+# Keep README files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/vector_db/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+
+# Generated files
+*.tmp
